@@ -1,0 +1,5 @@
+name: lifeArmorStend
+version: '${project.version}'
+main: ru.mrc.dev.LifeArmorStend
+api-version: '1.16'
+author: MrcDEV
